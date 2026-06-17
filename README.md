@@ -1,6 +1,6 @@
-# CodeAlpha Python Programming Tasks
+# Python Programming Tasks
 
-This repository contains my completed projects for the CodeAlpha Python Programming Internship.
+This repository contains my completed projects for Python Programming.
 
 ## 📁 Tasks Included:
 1. **Stock Portfolio Tracker** (`stock_tracker.py`) - Tracks stock assets and exports a summary to CSV.
